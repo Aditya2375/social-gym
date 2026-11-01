@@ -372,6 +372,7 @@
   /* ---------- router ---------- */
 
   function route() {
+    touchVisit();
     var h = location.hash || "#/";
     var parts = h.replace(/^#\//, "").split("/");
     if (parts[0] === "track" && parts[1]) viewTrack(parts[1]);
