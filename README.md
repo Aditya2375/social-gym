@@ -2,7 +2,7 @@
 
 Free, offline-friendly training for people skills: small talk, real conversations, storytelling, dating, negotiation and interviews.
 
-**Live:** https://social-gym.vercel.app
+**Live:** https://aditya2375.github.io/social-gym/
 
 ## What it is
 
