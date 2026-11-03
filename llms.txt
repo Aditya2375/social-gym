@@ -1,0 +1,13 @@
+# Social Gym
+
+Free, offline-friendly training for people skills: small talk, real conversations, storytelling, dating and flirting, negotiation and assertiveness, interviews and work.
+
+- Six tracks of five-minute lessons with say-this-not-that examples and daily drills
+- Five branching practice conversations with scored, explained choices
+- A ten-question scorecard that suggests where to start
+- No account, no paywall, no ads, no tracking; progress stays in the browser's local storage
+- Plain HTML/CSS/JS, installable as a PWA, works offline once loaded
+
+Live app: https://aditya2375.github.io/social-gym/
+Source: https://github.com/Aditya2375/social-gym
+Author: Aditya Kulkarni (https://adityakulkarni-eta.vercel.app/)
